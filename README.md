@@ -3,15 +3,12 @@
 -->
 ![Welcome Banner](./assets/README%20Banner.png)
 
+</br>
+
 <samp>Prazer, Leandro. </br>
 Seja muito que bem vinde ao meu humilde perfil!</samp>
 
-<a href="https://www.linkedin.com/in/leandro-matias/" target="_blank">
-  <img width="26" height="26" src="./assets/icons/linkedin.svg"/>
-</a>&nbsp;
-<a href="https://codepen.io/zkhiro" target="_blank">
-  <img width="26" height="26" src="./assets/icons/codepen.svg"/>
-</a>
+<a href="https://www.linkedin.com/in/leandro-matias/" target="_blank"><img width="26" height="26" src="./assets/icons/linkedin.svg"/></a> &nbsp; <a href="https://codepen.io/zkhiro" target="_blank"><img width="26" height="26" src="./assets/icons/codepen.svg"/></a>
 
 </br>
 
