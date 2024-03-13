@@ -1,9 +1,7 @@
 <!--
 **zKhiro/zKhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"><samp align="center">...</samp></p>
-
-<h2 align="center">Olar pessoa linda 👋</h2>
+![Welcome Banner](./assets/README%20Banner.png)
 
 <samp>Prazer, Leandro. </br>
 Seja muito que bem vinde ao meu humilde perfil!</samp>
