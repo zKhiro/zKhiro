@@ -32,6 +32,11 @@ Seja muito que bem vinde ao meu humilde perfil!</samp>
 
 </br>
 
+## 🎖️ Certificações
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeandroMatias-4937/65FD1D4449376E42?sharingId=EC5F3ADCDAF78BD2" target="_blank"><img width="96" height="96" src="./assets/microsoft-certified-fundamentals-badge.svg"/></a>
+
+</br>
+
 ## 🌱 Aprendendo
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
