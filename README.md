@@ -8,7 +8,7 @@
 <samp>Prazer, Leandro. </br>
 Seja muito que bem vinde ao meu humilde perfil!</samp>
 
-<a href="https://www.linkedin.com/in/leandro-matias/" target="_blank"><img width="26" height="26" src="./assets/icons/linkedin.svg"/></a> &nbsp; <a href="https://codepen.io/zkhiro" target="_blank"><img width="26" height="26" src="./assets/icons/codepen.svg"/></a> &nbsp; <a href="https://steamcommunity.com/id/khiro-san/" target="_blank"><img width="26" height="26" src="./assets/icons/steam.svg"/></a>
+<a href="https://www.linkedin.com/in/leandro-matias/" target="_blank"><img width="26" height="26" src="./assets/icons/linkedin.svg"/></a> &nbsp; <a href="https://codepen.io/zkhiro" target="_blank"><img width="26" height="26" src="./assets/icons/codepen.svg"/></a> &nbsp; <a href="https://zkhiro.github.io" target="_blank"><img width="26" height="26" src="./assets/icons/user-solid.svg"/></a> &nbsp; <a href="https://steamcommunity.com/id/khiro-san/" target="_blank"><img width="26" height="26" src="./assets/icons/steam.svg"/></a>
 
 </br>
 
@@ -67,9 +67,4 @@ Seja muito que bem vinde ao meu humilde perfil!</samp>
 </br>
 </br>
 
-<p align="center">
-  <a href="https://zkhiro.github.io" target="_blank">
-    <samp>Meu Site</samp>
-  </a>
-</p>
 <p align="center"><samp align="center">...</samp></p>
